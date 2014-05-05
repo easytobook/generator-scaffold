@@ -1,14 +1,14 @@
 {
   "name": "generator-scaffold",
   "version": "0.0.0",
-  "description": "Yeoman generator",
+  "description": "Tripwok generator used in scaffolding",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "ionutzp/generator-scaffold",
+  "repository": "easytobook/tripwok-generators/generator-scaffold",
   "author": {
     "name": "Ionut Popa",
     "email": "ionutzp@gmail.com",
-    "url": "https://github.com/ionutzp"
+    "url": "https://github.com/easytobook/tripwok-generators"
   },
   "engines": {
     "node": ">=0.10.0"
