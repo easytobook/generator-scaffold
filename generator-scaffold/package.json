@@ -1,6 +1,6 @@
 {
   "name": "generator-scaffold",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tripwok generator used in scaffolding",
   "license": "MIT",
   "main": "app/index.js",
