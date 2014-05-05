@@ -4,11 +4,11 @@
   "description": "Tripwok generator used in scaffolding",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "easytobook/tripwok-generators/generator-scaffold",
+  "repository": "easytobook/generator-scaffold",
   "author": {
     "name": "Ionut Popa",
     "email": "ionutzp@gmail.com",
-    "url": "https://github.com/easytobook/tripwok-generators"
+    "url": "https://github.com/easytobook/generator-scaffold"
   },
   "engines": {
     "node": ">=0.10.0"
