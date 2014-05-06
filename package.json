@@ -1,6 +1,6 @@
 {
   "name": "generator-scaffold",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "TW generator used in scaffolding",
   "main": "app/index.js",
   "repository": "easytobook/generator-scaffold",
