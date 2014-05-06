@@ -21,7 +21,7 @@ var ModuleGenerator = yeoman.generators.NamedBase.extend({
       this.testPath = 'test/unit/spec/'
     }
 
-    this.destinationRoot(this.sourceRoot().split('/generators')[0])
+    this.destinationRoot(this.sourceRoot().split('/node_modules')[0])
   },
 
   createFolder: function(){

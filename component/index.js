@@ -20,7 +20,7 @@ var ComponentGenerator = yeoman.generators.NamedBase.extend({
 
     this.tests = [];
 
-    this.destinationRoot(this.sourceRoot().split('/generators')[0])
+    this.destinationRoot(this.sourceRoot().split('/node_modules')[0])
   },
 
   createFiles: function(){
